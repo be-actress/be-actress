@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**be-actress/be-actress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![minha capa](https://i.pinimg.com/originals/7e/63/12/7e631290c95c18398bd38e28b1161171.png)
 ---
