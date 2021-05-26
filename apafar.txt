@@ -1,1 +1,2 @@
-oi linda
+print("oi linda")
+print("oi mundo")
