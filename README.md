@@ -1,10 +1,15 @@
 
-![minha capa](https://i.pinimg.com/originals/7e/63/12/7e631290c95c18398bd38e28b1161171.png)
----
+![minha capa](file:///C:/Users/Desktop%20Positivo/Documents/redimi.png)
 
-# Bem vindo ;)
----
+# Sobre mim
 
-Me chamo Beatriz, tenho 16 anos e sou estudante de desenvolvimento de sistema no sistema Senai, onde aprendo a linguagem Python, mas fora do curso tenho tentado aprender C e quero estudar HTML.
+- Me chamo Beatriz
+- tenho 16 anos
+- amo filmes, ler, viajar e café
+ 
 
-Gosto do fazer códigos, porém como ainda sou iniciante tenho muitos limites, mas pretendo melhorar.
+
+# Sobre meu curso
+- sou estudante de desenvolvimento de sistema no sistema FIRJAN SENAI SESI, onde aprendo a linguagem Python.
+
+- Gosto do fazer códigos, porém como ainda sou iniciante tenho muitos limites, mas pretendo melhorar.
