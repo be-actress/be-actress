@@ -1,5 +1,5 @@
 
-![minha capa](file:///C:/Users/Desktop%20Positivo/Documents/redimi.png)
+<src = 'redimi.png'>
 
 # Sobre mim
 
