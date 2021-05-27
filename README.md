@@ -1,5 +1,4 @@
-
-< src = 'redimi.png' >
+< img src = 'redimi.png' width = '400' >
 
 # Sobre mim
 
