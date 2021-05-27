@@ -1,4 +1,4 @@
-<img src ="redimi.png" width ="500">
+<img src ="redimi.png">
 
 # Sobre mim
 
