@@ -1,5 +1,5 @@
 
-<src = 'redimi.png'>
+< src = 'redimi.png' >
 
 # Sobre mim
 
